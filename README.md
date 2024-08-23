@@ -1,6 +1,6 @@
 # Bad Apple CLI
 # What is this?
-This program plays bad apple within the windows command prompt using ASCII art. This program uses openCV for loading images, and SFML to play the audio.
+Bad Apple CLI is a program plays bad apple within the windows command prompt using ASCII art. This program uses openCV for loading images, and SFML to play the audio.
 I made this in two days, so there maybe errors in the app.
 
 # Demonstration
